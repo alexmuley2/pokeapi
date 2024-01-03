@@ -1,0 +1,4 @@
+/* Elimina la clase .bg-search-result */
+body {
+    background-image: none;
+}
